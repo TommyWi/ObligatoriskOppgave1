@@ -1,0 +1,7 @@
+C:\Users\Tjomm\source\repos\Slektstre4\Slektstre4\bin\Debug\Slektstre4.exe.config
+C:\Users\Tjomm\source\repos\Slektstre4\Slektstre4\bin\Debug\Slektstre4.exe
+C:\Users\Tjomm\source\repos\Slektstre4\Slektstre4\bin\Debug\Slektstre4.pdb
+C:\Users\Tjomm\source\repos\Slektstre4\Slektstre4\obj\Debug\Slektstre4.csprojAssemblyReference.cache
+C:\Users\Tjomm\source\repos\Slektstre4\Slektstre4\obj\Debug\Slektstre4.csproj.CoreCompileInputs.cache
+C:\Users\Tjomm\source\repos\Slektstre4\Slektstre4\obj\Debug\Slektstre4.exe
+C:\Users\Tjomm\source\repos\Slektstre4\Slektstre4\obj\Debug\Slektstre4.pdb

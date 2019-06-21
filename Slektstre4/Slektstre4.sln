@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slektstre4", "Slektstre4\Slektstre4.csproj", "{74B93965-0ACC-459E-BD73-601195662AFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74B93965-0ACC-459E-BD73-601195662AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74B93965-0ACC-459E-BD73-601195662AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74B93965-0ACC-459E-BD73-601195662AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B93965-0ACC-459E-BD73-601195662AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83998AF2-5714-40A8-8A71-0433805F7FAB}
+	EndGlobalSection
+EndGlobal
